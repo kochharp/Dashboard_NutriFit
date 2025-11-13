@@ -13,6 +13,14 @@ The project demonstrates how **business intelligence and data visualization** ca
 👉 **[View the Interactive Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiNGZlNTEyMDAtYmEzMS00N2Y0LWJlM2YtZGFmZTg3ZWExMTU3IiwidCI6ImFlYWQ3NmEyLTFhZjctNDUxMy04NmQzLTVkMDVhNmU4ZDRmNiJ9)**  
 *(Click the link above to explore the Power BI dashboard interactively.)*
 
+## 📷 Dashboard Preview
+<p align="center">
+  <img src="overview.png" alt="NutriFit Power BI Dashboard Overview" width="80%">
+  <br><em>Figure: NutriFit Power BI Dashboard – Overview Page</em>
+</p>
+
+---
+
 ---
 
 ## 🎯 Objectives
